@@ -1,0 +1,4 @@
+
+identifier:
+  start: "{comment}useless{ws}{word:name}"
+  end: "{comment}useless.end"

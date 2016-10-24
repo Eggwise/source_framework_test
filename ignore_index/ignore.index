@@ -1,0 +1,4 @@
+folders:
+  include:
+    - ignored_folder
+

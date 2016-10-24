@@ -1,0 +1,7 @@
+#this is not implemented yet
+exclude:
+  - "__init__.py$"
+  - ".index$"
+  - ".pyc$"
+
+
